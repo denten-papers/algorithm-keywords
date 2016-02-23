@@ -1,31 +1,45 @@
 Preliminary Remarks on Algorithm as a Social Construction
 
 I would like consider the concept of an algorithm apart from its rich history
-in mathematics, which stems back to the work Al-Kuwarizmi, the native of
-Kwarazm, the surname of the great medieval Arab mathematician Abu Ja'far
-Mohammed Ben Musa. The alternative history of the Algorithm I propose here
-points to a particular kind of an inscription---a script---understood as a
-type of an imperative, performative utterance and thereby a species of agency
-displaced in time and place. Viewed from this light, the contemporary problem
-of algorithms, Haley's work. It joins the problematic of political formation:
-consensus, culpability, and consent.
+in mathematics, which stems back to the work the great ninth-century Persian
+mathematician Al-Khwarizmi, the "one from Kwarizm" (modern Khiva), the eponym
+also at the root of the Spanish *guarismo*, meaning decimal number.[^1]
+According to Donald Knuth, one of modern day's most significant scholars and
+architects of algorithm, the word should simply mean a "well defined process"
+which includes the "structuring of data" as well as the "sequence of
+operations being performed. He writes also about the "miscellaneous methods
+for the solution of particular problems analogous to individual theorems in
+mathematics."[^2]
 
-Consider the following simple thought experiment. You are want to eat toast
-for breakfast. To make the toast you place a slice of bread into a
-conventional device made this purpose: a toaster. The machine toasts bread,
-which takes several minutes. Imagine also being interrupted shortly after the
-start of the toasting process. An urgent phone call takes you out of the
-scene. What are we to make of the device absent the source of its volitional
-impetus? Does it make the toast on its own? Does it "want" to make it? And if
-an accident happens, a fire or an electrical malfunction, who is responsible?
-The device, its manufacturer, or its absent master? Whatever legal intuitions
-the reader may have in this regard, consider them a part of the larger
-political problematic. The same questions would present themselves if instead
-of the machine, the ordinating agent would delegate the responsibility for
-completing the task to a family member, by leaving a set of detailed
-instructions to be performed on your behalf at a later time. Words like
-"delegate" and "on your behalf" indicate what I have been calling a kind the
-problem of displaced agency. The action completes in the absence of the
+The alternative history of algorithms I propose here points to a particular
+kind of an inscription---a script---a type of an imperative utterance and
+thereby more broadly a species of *agency displaced* in time and place
+particular to all imperatives, be they machine code or legal codex. Viewed
+from the vantage point of political theory, the social problems of the sort
+Frank Pasquale identifies in his *The Black Box Society: The Secret Algorithms
+That Control Money and Information*---the opaque nature of algorithmic control
+regimes like search engines, spam filters, and high-speed financial trading
+bots---can be perceived as part of a long-standing debate about the nature of
+political formation, particularly as it relates to issues of personal agency,
+culpability, and consent.[^3]
+
+Consider the following simple thought experiment. You are wont to eat toast
+for breakfast. To make the toast you usually place a slice of bread into a
+machine especially for this purpose, a toaster. The machine takes several
+minutes to complete its task. Imagine also being once interrupted shortly
+after the start of the toasting process. An urgent phone call takes you out of
+the kitchen. What are we to make of the machine absent the source of its
+volitional impetus? Does it "make" the toast on its own? Does it "want" to
+make it? Were an accident to happen, a fire or an electrical malfunction, who
+would be responsible, the machine, its manufacturer, or its absent master?
+
+Whatever legal intuitions the reader may have in this regard, consider them a
+part of the larger political problematic. The same questions would present
+themselves if instead of the machine, the ordinating agent would delegate the
+responsibility for completing the task to a family member, by leaving a set of
+detailed instructions to be performed on your behalf at a later time. Words
+like "delegate" and "on your behalf" indicate what I have been calling a kind
+the problem of displaced agency. The action completes in the absence of the
 originating agency. It seems magical in a sense: the machine (our humble
 toaster or a recipe for toast) contains a disembodied spark of its originating
 intention: want, appetite, desire.
@@ -74,3 +88,21 @@ anthromorphism of algorithm obscures causal chains that lead to actors engaged
 in the struggle for capital in control, ascribing to the system an
 extra-rational aura of fetish and mysticism and thereby diminishing our
 capacity to 
+
+[^1]: Knuth, Donald E. “Algorithms in Modern Mathematics and Computer
+Science.” In *Proceedings on Algorithms in Modern Mathematics and Computer
+Science*, 82–99. London, UK: Springer-Verlag, 1981.
+
+[^2]: Knuth, Donald E. “Algorithms in Modern Mathematics and Computer
+Science.” In *Proceedings on Algorithms in Modern Mathematics and Computer
+Science*, 82. London, UK: Springer-Verlag, 1981.
+
+[^3]: Pasquale, Frank. *The Black Box Society: The Secret Algorithms That
+Control Money and Informationjp, 2015.
+
+[^3]: Pasquale, Frank. *The Black Box Society: The Secret Algorithms That Control
+Money and Information.* Cambridge, Mass: Harvard University Press, 2015.
+
+[^4]: Hayles, N. Katherine. “Cognition Everywhere: The Rise of the Cognitive
+Nonconscious and the Costs of Consciousness.” *New Literary History New
+Literary History* 45, no. 2 (2014): 199–220.
